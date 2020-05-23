@@ -2,7 +2,7 @@
 Summary:	A Haskell binding to the alsa-core graphics library
 Name:		ghc-%{pkgname}
 Version:	0.5.0.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 Source0:	http://hackage.haskell.org/packages/archive/%{pkgname}/%{version}/%{pkgname}-%{version}.tar.gz
